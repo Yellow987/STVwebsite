@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React uwu YUS owo awa navBAR yesh
+          Learn React uwu YUS owo awa navBAR yeshsir
         </a>
       </header>
     </div>
